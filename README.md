@@ -29,7 +29,7 @@ La DB a été crée suivant les schémas MLD & MCD suivants
 <ul>
     <li><a href="table.md">Fichier PGSQL</a></li>
     <li><a href="gestion.md">Documentation concernant la gestion de notre DB</a></li>
-    <li><a href="autorisations.md">La Méthodologie Merise</a></li>    
+    <li><a href="autorisations.md">Sécurité/Gestion des rôles et des autorisations</a></li>    
     <li><a href="merise.md">La Méthodologie Merise</a></li>
 
 
